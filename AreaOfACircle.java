@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class AreaOfACircle {
+public class AreaOfACircle{
     public static void area(Scanner sc){
             System.out.println("Enter the rdius :");
             double a= sc.nextDouble();
