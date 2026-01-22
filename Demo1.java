@@ -1,6 +1,7 @@
 class HelloWorld{
 	static int emailId;
 }
+
 public class Demo1{
     static int x = 50;
 	int z = 60;
