@@ -5,7 +5,7 @@ public class SumNonZero{
         double v;
         double t = 0.0;
         do {
-            System.out.println("Enter a no.: ");
+            System.out.println("Enter a no.:");
             v = sc.nextDouble();
             if (v<=0){
                 break;   
