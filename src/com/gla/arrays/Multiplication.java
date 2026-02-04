@@ -16,7 +16,5 @@ public class Multiplication{
             System.out.println(number + " * " + i + " = " + arr[k]);
             k++;
         }
-
-        sc.close();
     }
 }
