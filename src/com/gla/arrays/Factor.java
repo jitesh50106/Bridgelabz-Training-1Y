@@ -5,7 +5,7 @@ public class Factor{
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int number = sc.nextInt();
-        int[] factors = new int[number]; 
+        int[] factors = new int[number];
         int index = 0;
         for (int i = 1; i <= number; i++) {
             if (number % i == 0) {
